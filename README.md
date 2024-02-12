@@ -15,7 +15,6 @@ The application of the Hotel Management System bears the following functions to 
 
 <br>Main objective of this project is to provide solution for hotel to manage most there work using computerized process. This software application will help admin to handle customer information, room allocation details, Payment details etc.</br>
 <ul>*Keeping records of admission of customers.</ul>
-<ul></ul>*Facilities provided by Hotel are fully utilized in effective and efficient manner. 
-</ul>
+<ul>*Facilities provided by Hotel are fully utilized in effective and efficient manner. </ul>
 
 
