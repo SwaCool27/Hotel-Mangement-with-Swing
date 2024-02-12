@@ -4,19 +4,18 @@
 <br>The Purpose of the whole process is to ease the daily or regular activities of the Hotel Management into an automatic computerized retrievable process. The daily activities includes the Room activities, Entering details of the new customer check in, To allocate a room as per the customer need and interest, Recording the checkout time and details, Releasing or Empty of room and to record the process in a computer system for future.
 The application of the Hotel Management System bears the following functions to use by the Administrator:</br>
 
-<ul>*Add a new Room
-*Add an Employee
-*Add a new Customer
-*Check room status
-*Check all employees’ details
-*Check all Customers’ details
-*Update room status
-*Update check status etc.
-</ul>
+<ul>*Add a new Room</ul>
+<ul>*Add an Employee</ul>
+<ul>*Add a new Customer</ul>
+<ul>*Check room status</ul>
+<ul>*Check all employees’ details</ul>
+<ul>*Check all Customers’ details</ul>
+<ul>*Update room status</ul>
+<ul>*Update check status etc.</ul>
 
 <br>Main objective of this project is to provide solution for hotel to manage most there work using computerized process. This software application will help admin to handle customer information, room allocation details, Payment details etc.</br>
-<ul>*Keeping records of admission of customers.
-*Facilities provided by Hotel are fully utilized in effective and efficient manner. 
+<ul>*Keeping records of admission of customers.</ul>
+<ul></ul>*Facilities provided by Hotel are fully utilized in effective and efficient manner. 
 </ul>
 
 
